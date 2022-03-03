@@ -4,6 +4,11 @@ import i18n from '../../i18n/i18n';
 import {TokenKey} from "@/common/js/constants";
 import {getCurrentProjectID, getCurrentWorkspaceId} from "@/common/js/utils";
 
+var $ = axios.create({
+  baseURL: 'http://metersphere.sh2.agoralab.co',
+  timeout: 1000
+});
+
 export function registerRequestHeaders() {
   axios.interceptors.request.use(config => {
     let user = JSON.parse(localStorage.getItem(TokenKey));
@@ -35,7 +40,7 @@ let unRedirectUrls = new Set(['signin', 'ldap/signin', '/signin', '/ldap/signin'
 export function login() {
   MessageBox.alert(i18n.t('commons.tips'), i18n.t('commons.prompt'), {
     callback: () => {
-      axios.get("/signout");
+      $.get("/signout");
       localStorage.setItem('Admin-Token', "{}");
       window.location.href = "/login";
     }
@@ -78,10 +83,13 @@ function exception(error, result, url) {
 
 export function get(url, success) {
   let result = {loading: true};
+  console.log('process env',process.env.DOMAIN)
+//  var a = "metersphere.sh2.agoralab.co";
+//  url = a + url;
   if (!success) {
-    return axios.get(url);
+    return $.get(url);
   } else {
-    axios.get(url).then(response => {
+    $.get(url).then(response => {
       then(success, response, result);
     }).catch(error => {
       exception(error, result, url);
@@ -93,9 +101,9 @@ export function get(url, success) {
 export function post(url, data, success, failure) {
   let result = {loading: true};
   if (!success) {
-    return axios.post(url, data);
+    return $.post(url, data);
   } else {
-    axios.post(url, data).then(response => {
+    $.post(url, data).then(response => {
       then(success, response, result);
     }).catch(error => {
       exception(error, result, url);
@@ -125,7 +133,7 @@ export function request(axiosRequestConfig, success, failure) {
 }
 
 export function fileDownload(url) {
-  axios.get(url, {responseType: 'blob'})
+  $.get(url, {responseType: 'blob'})
     .then(response => {
       let fileName = window.decodeURI(response.headers['content-disposition'].split('=')[1]);
       let link = document.createElement("a");

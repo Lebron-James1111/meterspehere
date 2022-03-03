@@ -1,0 +1,1582 @@
+2022-02-23 14:25:05,715 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：0
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 14:25:05,716 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 4c133306 】,资源ID【 779d5098 】]
+2022-02-23 14:25:05,724 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【4c133306】]
+2022-02-23 14:25:05,950 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][任务：【 4c133306 】执行完成]
+2022-02-23 14:26:05,606 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：1
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 14:26:05,606 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 ef85f2cd 】,资源ID【 96763cb7 】]
+2022-02-23 14:26:05,608 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【ef85f2cd】]
+2022-02-23 14:26:05,941 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][任务：【 ef85f2cd 】执行完成]
+2022-02-23 14:26:10,930 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：2
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 14:26:10,930 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 bde10260 】,资源ID【 c5158687 】]
+2022-02-23 14:26:10,932 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【bde10260】]
+2022-02-23 14:26:11,057 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][任务：【 bde10260 】执行完成]
+2022-02-23 14:26:32,265 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：3
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 14:26:32,265 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 88f4350e 】,资源ID【 4c01fc53 】]
+2022-02-23 14:26:32,266 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【88f4350e】]
+2022-02-23 14:26:32,354 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][任务：【 88f4350e 】执行完成]
+2022-02-23 14:27:09,642 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：4
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 14:27:09,642 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 6e4e2c4c 】,资源ID【 aca3e09b 】]
+2022-02-23 14:27:09,643 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【6e4e2c4c】]
+2022-02-23 14:27:09,745 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][任务：【 6e4e2c4c 】执行完成]
+2022-02-23 14:27:25,520 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：5
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 14:27:25,521 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 f345d922 】,资源ID【 6abdb008 】]
+2022-02-23 14:27:25,522 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【f345d922】]
+2022-02-23 14:27:26,385 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][任务：【 f345d922 】执行完成]
+2022-02-23 15:21:24,478 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：6
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:21:24,479 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 bfd88513 】,资源ID【 f1ddcc2e-5402-a8b3-a041-d6d591b72456 】]
+2022-02-23 15:21:24,483 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【bfd88513】]
+2022-02-23 15:21:24,484 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 bfd88513 】TestStarted接收到参数：资源【 f1ddcc2e-5402-a8b3-a041-d6d591b72456 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:21:24,598 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【bfd88513 】,资源【 f1ddcc2e-5402-a8b3-a041-d6d591b72456 】]
+2022-02-23 15:21:24,604 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:21:24,629 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【bfd88513 】,资源【 f1ddcc2e-5402-a8b3-a041-d6d591b72456 】]
+2022-02-23 15:21:25,637 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:21:25,638 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【bfd88513】资源【 f1ddcc2e-5402-a8b3-a041-d6d591b72456 】执行结束]
+2022-02-23 15:21:25,638 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【bfd88513 】整体执行完成；DEFINITION]
+2022-02-23 15:21:25,638 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][任务：【 bfd88513 】执行完成]
+2022-02-23 15:21:25,639 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 15:31:13,463 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：7
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:31:13,464 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 fdd67357 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:31:13,464 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【fdd67357】]
+2022-02-23 15:31:13,466 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 fdd67357 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:31:13,563 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【fdd67357 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:31:13,564 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:31:13,573 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【fdd67357 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:31:14,574 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:31:14,575 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【fdd67357】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 15:31:14,575 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【fdd67357 】整体执行完成；DEFINITION]
+2022-02-23 15:31:14,576 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][任务：【 fdd67357 】执行完成]
+2022-02-23 15:31:14,576 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 15:32:14,552 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：8
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:32:14,552 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 24777b0e 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:32:14,553 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【24777b0e】]
+2022-02-23 15:32:14,555 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 24777b0e 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:32:14,668 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【24777b0e 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:32:14,669 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:32:14,678 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【24777b0e 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:32:15,679 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:32:15,680 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【24777b0e】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 15:32:15,680 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【24777b0e 】整体执行完成；DEFINITION]
+2022-02-23 15:32:15,680 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][任务：【 24777b0e 】执行完成]
+2022-02-23 15:32:15,681 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 15:32:48,952 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：9
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:32:48,952 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 a65b3ea1 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:32:48,953 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【a65b3ea1】]
+2022-02-23 15:32:48,955 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 a65b3ea1 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:32:49,047 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a65b3ea1 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:32:49,048 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:32:49,058 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a65b3ea1 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:32:50,059 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:32:50,060 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【a65b3ea1】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 15:32:50,060 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【a65b3ea1 】整体执行完成；DEFINITION]
+2022-02-23 15:32:50,060 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][任务：【 a65b3ea1 】执行完成]
+2022-02-23 15:32:50,062 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 15:35:12,063 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：10
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:35:12,064 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 69a69701 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:35:12,065 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【69a69701】]
+2022-02-23 15:35:12,066 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 69a69701 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:35:12,153 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【69a69701 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:35:12,154 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:35:12,163 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【69a69701 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:35:13,163 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:35:13,165 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【69a69701】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 15:35:13,165 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【69a69701 】整体执行完成；DEFINITION]
+2022-02-23 15:35:13,165 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][任务：【 69a69701 】执行完成]
+2022-02-23 15:35:13,166 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 15:35:27,332 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：11
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:35:27,332 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 7308de92 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:35:27,333 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【7308de92】]
+2022-02-23 15:35:27,335 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 7308de92 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:35:27,419 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【7308de92 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:35:27,421 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:35:27,429 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【7308de92 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:35:28,430 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:35:28,432 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【7308de92】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 15:35:28,433 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【7308de92 】整体执行完成；DEFINITION]
+2022-02-23 15:35:28,433 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][任务：【 7308de92 】执行完成]
+2022-02-23 15:35:28,434 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 15:37:36,945 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：12
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:37:36,945 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 bfe3d872 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:37:36,946 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【bfe3d872】]
+2022-02-23 15:37:36,947 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 bfe3d872 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:37:37,030 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【bfe3d872 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:37:37,031 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:37:37,040 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【bfe3d872 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 15:37:38,040 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:37:38,041 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【bfe3d872】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 15:37:38,041 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【bfe3d872 】整体执行完成；DEFINITION]
+2022-02-23 15:37:38,041 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][任务：【 bfe3d872 】执行完成]
+2022-02-23 15:37:38,042 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 15:54:28,932 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：13
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 15:54:28,932 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 c49ab0e0 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 15:54:28,934 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【c49ab0e0】]
+2022-02-23 15:54:28,935 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 c49ab0e0 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 15:54:29,042 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c49ab0e0 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 15:54:29,042 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 15:54:29,052 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c49ab0e0 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 15:54:30,053 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 15:54:30,054 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【c49ab0e0】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 15:54:30,054 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【c49ab0e0 】整体执行完成；DEFINITION]
+2022-02-23 15:54:30,055 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][任务：【 c49ab0e0 】执行完成]
+2022-02-23 15:54:30,055 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:00:28,693 [XNIO-1 task-6] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：14
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:00:28,694 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 d31b82bf 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:00:28,695 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【d31b82bf】]
+2022-02-23 16:00:28,696 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 d31b82bf 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:00:28,801 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d31b82bf 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:00:28,802 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:00:28,812 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d31b82bf 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:00:29,813 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:00:29,814 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【d31b82bf】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 16:00:29,814 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【d31b82bf 】整体执行完成；DEFINITION]
+2022-02-23 16:00:29,814 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][任务：【 d31b82bf 】执行完成]
+2022-02-23 16:00:29,815 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:01:12,414 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：15
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:01:12,415 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 38bed80f 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:01:12,416 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【38bed80f】]
+2022-02-23 16:01:12,420 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 38bed80f 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:01:12,519 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【38bed80f 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:01:12,520 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:01:12,535 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【38bed80f 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:01:13,535 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:01:13,537 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【38bed80f】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 16:01:13,537 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【38bed80f 】整体执行完成；DEFINITION]
+2022-02-23 16:01:13,537 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][任务：【 38bed80f 】执行完成]
+2022-02-23 16:01:13,537 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:06:41,386 [XNIO-1 task-1] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：16
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:06:41,386 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 e5d86489 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:06:41,387 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【e5d86489】]
+2022-02-23 16:06:41,389 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 e5d86489 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:06:41,482 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e5d86489 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:06:41,482 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:06:41,490 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e5d86489 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:06:42,492 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:06:42,493 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【e5d86489】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 16:06:42,493 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【e5d86489 】整体执行完成；DEFINITION]
+2022-02-23 16:06:42,494 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][任务：【 e5d86489 】执行完成]
+2022-02-23 16:06:42,495 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:08:31,133 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：17
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:08:31,133 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 dfbcf76b 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:08:31,134 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【dfbcf76b】]
+2022-02-23 16:08:31,135 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 dfbcf76b 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:08:31,233 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【dfbcf76b 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:08:31,234 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:08:31,242 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【dfbcf76b 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:08:32,242 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:08:32,243 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【dfbcf76b】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 16:08:32,243 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【dfbcf76b 】整体执行完成；DEFINITION]
+2022-02-23 16:08:32,244 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][任务：【 dfbcf76b 】执行完成]
+2022-02-23 16:08:32,244 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:08:41,763 [XNIO-1 task-1] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：18
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:08:41,763 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 d962ea03 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:08:41,764 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【d962ea03】]
+2022-02-23 16:08:41,766 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 d962ea03 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:08:41,877 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d962ea03 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:08:41,878 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:08:41,885 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d962ea03 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:08:42,886 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:08:42,888 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【d962ea03】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 16:08:42,888 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【d962ea03 】整体执行完成；DEFINITION]
+2022-02-23 16:08:42,888 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][任务：【 d962ea03 】执行完成]
+2022-02-23 16:08:42,889 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:09:22,989 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：19
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:09:22,989 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 ebf13c85 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:09:22,990 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【ebf13c85】]
+2022-02-23 16:09:22,991 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 ebf13c85 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:09:23,089 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ebf13c85 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:09:23,090 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:09:23,099 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ebf13c85 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 16:09:24,101 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:09:24,102 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【ebf13c85】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 16:09:24,102 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【ebf13c85 】整体执行完成；DEFINITION]
+2022-02-23 16:09:24,102 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][任务：【 ebf13c85 】执行完成]
+2022-02-23 16:09:24,103 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:10:56,901 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：20
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:10:56,902 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 d1494be5 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:10:56,902 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【d1494be5】]
+2022-02-23 16:10:56,903 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 d1494be5 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:10:59,288 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d1494be5 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:10:59,288 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:10:59,299 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d1494be5 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:11:00,301 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:11:00,302 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【d1494be5】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 16:11:00,303 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【d1494be5 】整体执行完成；DEFINITION]
+2022-02-23 16:11:00,303 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][任务：【 d1494be5 】执行完成]
+2022-02-23 16:11:00,304 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:14:00,842 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：21
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:14:00,842 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 f45d6e13 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:14:00,843 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【f45d6e13】]
+2022-02-23 16:14:00,844 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 f45d6e13 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:14:00,941 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f45d6e13 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:14:00,942 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:14:00,950 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f45d6e13 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:14:01,950 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:14:01,953 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【f45d6e13】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 16:14:01,953 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【f45d6e13 】整体执行完成；DEFINITION]
+2022-02-23 16:14:01,953 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][任务：【 f45d6e13 】执行完成]
+2022-02-23 16:14:01,954 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:14:39,866 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：22
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:14:39,866 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 e105edfe 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:14:39,867 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【e105edfe】]
+2022-02-23 16:14:39,868 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 e105edfe 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:14:39,978 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e105edfe 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:14:39,979 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:14:39,992 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e105edfe 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:14:40,994 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:14:40,996 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【e105edfe】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 16:14:40,996 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【e105edfe 】整体执行完成；DEFINITION]
+2022-02-23 16:14:40,996 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][任务：【 e105edfe 】执行完成]
+2022-02-23 16:14:40,998 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:15:12,900 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：23
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:15:12,900 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 d6e996d9 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:15:12,901 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【d6e996d9】]
+2022-02-23 16:15:12,902 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 d6e996d9 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:15:13,452 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d6e996d9 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:15:13,453 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:15:13,461 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d6e996d9 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:15:14,462 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:15:14,463 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【d6e996d9】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 16:15:14,463 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【d6e996d9 】整体执行完成；DEFINITION]
+2022-02-23 16:15:14,463 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][任务：【 d6e996d9 】执行完成]
+2022-02-23 16:15:14,464 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:17:24,780 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：24
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:17:24,780 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 19d3ff4a 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:17:24,781 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【19d3ff4a】]
+2022-02-23 16:17:24,782 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 19d3ff4a 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:17:24,878 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【19d3ff4a 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:17:24,879 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:17:24,886 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【19d3ff4a 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:17:25,887 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:17:25,889 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【19d3ff4a】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 16:17:25,889 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【19d3ff4a 】整体执行完成；DEFINITION]
+2022-02-23 16:17:25,889 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][任务：【 19d3ff4a 】执行完成]
+2022-02-23 16:17:25,890 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:17:54,189 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：25
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:17:54,189 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 011db66e 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:17:54,190 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【011db66e】]
+2022-02-23 16:17:54,191 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 011db66e 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:17:54,288 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【011db66e 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:17:54,289 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:17:54,298 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【011db66e 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 16:17:55,300 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:17:55,301 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【011db66e】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 16:17:55,301 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【011db66e 】整体执行完成；DEFINITION]
+2022-02-23 16:17:55,302 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][任务：【 011db66e 】执行完成]
+2022-02-23 16:17:55,302 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:18:10,977 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：26
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:18:10,977 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 f42a2731 】,资源ID【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 16:18:10,978 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【f42a2731】]
+2022-02-23 16:18:10,979 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 f42a2731 】TestStarted接收到参数：资源【 3b616b6c-e998-58fa-215e-8261293a1627 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:18:11,376 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f42a2731 】,资源【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 16:18:11,377 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:18:11,390 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f42a2731 】,资源【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 16:18:12,392 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:18:12,394 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【f42a2731】资源【 3b616b6c-e998-58fa-215e-8261293a1627 】执行结束]
+2022-02-23 16:18:12,394 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【f42a2731 】整体执行完成；DEFINITION]
+2022-02-23 16:18:12,394 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][任务：【 f42a2731 】执行完成]
+2022-02-23 16:18:12,396 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:19:20,828 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：27
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:19:20,828 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 e076215e 】,资源ID【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 16:19:20,829 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【e076215e】]
+2022-02-23 16:19:20,830 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 e076215e 】TestStarted接收到参数：资源【 3b616b6c-e998-58fa-215e-8261293a1627 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:19:21,124 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e076215e 】,资源【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 16:19:21,125 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:19:21,139 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e076215e 】,资源【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 16:19:22,140 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:19:22,141 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【e076215e】资源【 3b616b6c-e998-58fa-215e-8261293a1627 】执行结束]
+2022-02-23 16:19:22,141 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【e076215e 】整体执行完成；DEFINITION]
+2022-02-23 16:19:22,142 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][任务：【 e076215e 】执行完成]
+2022-02-23 16:19:22,142 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:21:41,078 [XNIO-1 task-6] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：28
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:21:41,078 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 99233ca6 】,资源ID【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 16:21:41,079 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【99233ca6】]
+2022-02-23 16:21:41,081 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 99233ca6 】TestStarted接收到参数：资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:21:41,188 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【99233ca6 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 16:21:41,189 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:21:41,203 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【99233ca6 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 16:21:42,204 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:21:42,205 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【99233ca6】资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】执行结束]
+2022-02-23 16:21:42,205 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【99233ca6 】整体执行完成；DEFINITION]
+2022-02-23 16:21:42,206 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][任务：【 99233ca6 】执行完成]
+2022-02-23 16:21:42,207 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:22:52,071 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：29
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:22:52,071 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 14512e8f 】,资源ID【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 16:22:52,071 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【14512e8f】]
+2022-02-23 16:22:52,072 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 14512e8f 】TestStarted接收到参数：资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:22:52,464 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【14512e8f 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 16:22:52,464 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:22:52,477 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【14512e8f 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 16:22:53,479 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:22:53,480 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【14512e8f】资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】执行结束]
+2022-02-23 16:22:53,480 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【14512e8f 】整体执行完成；DEFINITION]
+2022-02-23 16:22:53,480 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][任务：【 14512e8f 】执行完成]
+2022-02-23 16:22:53,481 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:23:51,580 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：30
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:23:51,580 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 f81babbf 】,资源ID【 e8d66ca5-660f-5318-f6eb-75681a6e9dc4 】]
+2022-02-23 16:23:51,581 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【f81babbf】]
+2022-02-23 16:23:51,582 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 f81babbf 】TestStarted接收到参数：资源【 e8d66ca5-660f-5318-f6eb-75681a6e9dc4 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:23:51,873 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f81babbf 】,资源【 e8d66ca5-660f-5318-f6eb-75681a6e9dc4 】]
+2022-02-23 16:23:51,874 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:23:51,888 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f81babbf 】,资源【 e8d66ca5-660f-5318-f6eb-75681a6e9dc4 】]
+2022-02-23 16:23:52,888 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:23:52,889 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【f81babbf】资源【 e8d66ca5-660f-5318-f6eb-75681a6e9dc4 】执行结束]
+2022-02-23 16:23:52,889 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【f81babbf 】整体执行完成；DEFINITION]
+2022-02-23 16:23:52,889 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][任务：【 f81babbf 】执行完成]
+2022-02-23 16:23:52,890 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:24:24,204 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：31
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:24:24,204 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 cf247e37 】,资源ID【 940733b4-fac2-4649-9647-ec45e26b64e2 】]
+2022-02-23 16:24:24,217 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【cf247e37】]
+2022-02-23 16:24:24,218 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 cf247e37 】TestStarted接收到参数：资源【 940733b4-fac2-4649-9647-ec45e26b64e2 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:24:24,523 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf247e37 】,资源【 940733b4-fac2-4649-9647-ec45e26b64e2 】]
+2022-02-23 16:24:24,524 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:24:24,542 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf247e37 】,资源【 940733b4-fac2-4649-9647-ec45e26b64e2 】]
+2022-02-23 16:24:25,543 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:24:25,544 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【cf247e37】资源【 940733b4-fac2-4649-9647-ec45e26b64e2 】执行结束]
+2022-02-23 16:24:25,544 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【cf247e37 】整体执行完成；DEFINITION]
+2022-02-23 16:24:25,544 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][任务：【 cf247e37 】执行完成]
+2022-02-23 16:24:25,546 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:28:26,174 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：32
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:28:26,174 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 3addbda1 】,资源ID【 c279e739-d45e-b7b3-10f0-1edc9564be98 】]
+2022-02-23 16:28:26,175 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【3addbda1】]
+2022-02-23 16:28:26,177 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 3addbda1 】TestStarted接收到参数：资源【 c279e739-d45e-b7b3-10f0-1edc9564be98 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:28:26,567 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【3addbda1 】,资源【 c279e739-d45e-b7b3-10f0-1edc9564be98 】]
+2022-02-23 16:28:26,568 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 16:28:26,582 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【3addbda1 】,资源【 c279e739-d45e-b7b3-10f0-1edc9564be98 】]
+2022-02-23 16:28:27,583 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 16:28:27,584 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【3addbda1】资源【 c279e739-d45e-b7b3-10f0-1edc9564be98 】执行结束]
+2022-02-23 16:28:27,584 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【3addbda1 】整体执行完成；DEFINITION]
+2022-02-23 16:28:27,584 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][任务：【 3addbda1 】执行完成]
+2022-02-23 16:28:27,585 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:35:25,406 [XNIO-1 task-1] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：33
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:35:25,406 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 501d4fad 】,资源ID【 501d4fad 】]
+2022-02-23 16:35:25,407 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【501d4fad】]
+2022-02-23 16:35:25,777 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 501d4fad 】TestStarted接收到参数：资源【 501d4fad 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:35:26,140 [501d4fad 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【501d4fad 】,资源【 501d4fad 】]
+2022-02-23 16:35:26,427 [501d4fad 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【501d4fad 】,资源【 501d4fad 】]
+2022-02-23 16:35:26,655 [501d4fad 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【501d4fad 】,资源【 501d4fad 】]
+2022-02-23 16:35:26,860 [501d4fad 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【501d4fad 】,资源【 501d4fad 】]
+2022-02-23 16:35:27,081 [501d4fad 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【501d4fad 】,资源【 501d4fad 】]
+2022-02-23 16:35:27,086 [501d4fad 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【501d4fad 】,资源【 501d4fad 】]
+2022-02-23 16:35:28,087 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【501d4fad】资源【 501d4fad 】执行结束]
+2022-02-23 16:35:28,087 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【501d4fad 】整体执行完成；SCENARIO]
+2022-02-23 16:35:28,087 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][任务：【 501d4fad 】执行完成]
+2022-02-23 16:35:28,153 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:56:25,545 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：34
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:56:25,545 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 75ed7ab1 】,资源ID【 75ed7ab1 】]
+2022-02-23 16:56:25,546 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【75ed7ab1】]
+2022-02-23 16:56:25,552 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 75ed7ab1 】TestStarted接收到参数：资源【 75ed7ab1 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 16:56:25,890 [75ed7ab1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【75ed7ab1 】,资源【 75ed7ab1 】]
+2022-02-23 16:56:26,118 [75ed7ab1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【75ed7ab1 】,资源【 75ed7ab1 】]
+2022-02-23 16:56:26,336 [75ed7ab1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【75ed7ab1 】,资源【 75ed7ab1 】]
+2022-02-23 16:56:26,661 [75ed7ab1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【75ed7ab1 】,资源【 75ed7ab1 】]
+2022-02-23 16:56:26,894 [75ed7ab1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【75ed7ab1 】,资源【 75ed7ab1 】]
+2022-02-23 16:56:26,899 [75ed7ab1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【75ed7ab1 】,资源【 75ed7ab1 】]
+2022-02-23 16:56:27,900 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【75ed7ab1】资源【 75ed7ab1 】执行结束]
+2022-02-23 16:56:27,900 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【75ed7ab1 】整体执行完成；SCENARIO]
+2022-02-23 16:56:27,900 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][任务：【 75ed7ab1 】执行完成]
+2022-02-23 16:56:27,933 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 16:58:03,088 [XNIO-1 task-1] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：35
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 16:58:03,089 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 9c6d1b25-4979-7343-5029-956187a9b359 】,资源ID【 polling 】]
+2022-02-23 16:58:03,090 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【9c6d1b25-4979-7343-5029-956187a9b359】]
+2022-02-23 16:58:03,435 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][任务：【 9c6d1b25-4979-7343-5029-956187a9b359 】执行完成]
+2022-02-23 17:02:38,713 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：36
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:02:38,713 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 6dc5a346 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:02:38,714 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【6dc5a346】]
+2022-02-23 17:02:38,715 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 6dc5a346 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:02:38,981 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6dc5a346 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:02:38,981 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 17:02:38,988 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6dc5a346 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:02:39,989 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 17:02:39,990 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【6dc5a346】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 17:02:39,990 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【6dc5a346 】整体执行完成；DEFINITION]
+2022-02-23 17:02:39,990 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][任务：【 6dc5a346 】执行完成]
+2022-02-23 17:02:39,993 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:05:24,473 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：37
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:05:24,473 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 c467bb57 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:05:24,474 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【c467bb57】]
+2022-02-23 17:05:24,475 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 c467bb57 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:05:24,769 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c467bb57 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:05:24,769 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 17:05:24,776 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c467bb57 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:05:25,777 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 17:05:25,779 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【c467bb57】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 17:05:25,779 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【c467bb57 】整体执行完成；DEFINITION]
+2022-02-23 17:05:25,779 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][任务：【 c467bb57 】执行完成]
+2022-02-23 17:05:25,779 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:05:32,323 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：38
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:05:32,323 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 bfdc7918 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 17:05:32,324 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【bfdc7918】]
+2022-02-23 17:05:32,325 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 bfdc7918 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:05:32,435 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【bfdc7918 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 17:05:32,436 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 17:05:32,444 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【bfdc7918 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 17:05:33,445 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 17:05:33,446 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【bfdc7918】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 17:05:33,446 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【bfdc7918 】整体执行完成；DEFINITION]
+2022-02-23 17:05:33,447 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][任务：【 bfdc7918 】执行完成]
+2022-02-23 17:05:33,447 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:06:30,265 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：39
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:06:30,265 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 b3e09273 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:06:30,266 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【b3e09273】]
+2022-02-23 17:06:30,267 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 b3e09273 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:06:30,833 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b3e09273 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:06:30,834 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 17:06:30,842 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b3e09273 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:06:31,843 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 17:06:31,846 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【b3e09273】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 17:06:31,846 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【b3e09273 】整体执行完成；DEFINITION]
+2022-02-23 17:06:31,846 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][任务：【 b3e09273 】执行完成]
+2022-02-23 17:06:31,847 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:06:53,050 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：40
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:06:53,050 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 fe5e5dc1 】,资源ID【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 17:06:53,051 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【fe5e5dc1】]
+2022-02-23 17:06:53,052 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 fe5e5dc1 】TestStarted接收到参数：资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:06:53,147 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【fe5e5dc1 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 17:06:53,148 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 17:06:53,157 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【fe5e5dc1 】,资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】]
+2022-02-23 17:06:54,158 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 17:06:54,158 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【fe5e5dc1】资源【 127fd563-053a-4cbd-892d-51c3428cdea6 】执行结束]
+2022-02-23 17:06:54,158 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【fe5e5dc1 】整体执行完成；DEFINITION]
+2022-02-23 17:06:54,158 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][任务：【 fe5e5dc1 】执行完成]
+2022-02-23 17:06:54,159 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:08:56,912 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：41
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:08:56,912 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 67d810d7 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:08:56,913 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【67d810d7】]
+2022-02-23 17:08:56,914 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 67d810d7 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:08:57,198 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【67d810d7 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:08:57,200 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 17:08:57,211 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【67d810d7 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 17:08:58,211 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 17:08:58,212 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【67d810d7】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 17:08:58,212 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【67d810d7 】整体执行完成；DEFINITION]
+2022-02-23 17:08:58,212 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][任务：【 67d810d7 】执行完成]
+2022-02-23 17:08:58,213 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:14:53,976 [XNIO-1 task-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：42
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:14:53,976 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 ed374bdf 】,资源ID【 ed374bdf 】]
+2022-02-23 17:14:53,977 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【ed374bdf】]
+2022-02-23 17:14:53,979 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 ed374bdf 】TestStarted接收到参数：资源【 ed374bdf 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:14:54,317 [ed374bdf 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ed374bdf 】,资源【 ed374bdf 】]
+2022-02-23 17:14:54,343 [ed374bdf 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ed374bdf 】,资源【 ed374bdf 】]
+2022-02-23 17:14:54,366 [ed374bdf 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ed374bdf 】,资源【 ed374bdf 】]
+2022-02-23 17:14:54,387 [ed374bdf 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ed374bdf 】,资源【 ed374bdf 】]
+2022-02-23 17:14:54,405 [ed374bdf 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ed374bdf 】,资源【 ed374bdf 】]
+2022-02-23 17:14:54,411 [ed374bdf 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ed374bdf 】,资源【 ed374bdf 】]
+2022-02-23 17:14:55,413 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【ed374bdf】资源【 ed374bdf 】执行结束]
+2022-02-23 17:14:55,413 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【ed374bdf 】整体执行完成；SCENARIO]
+2022-02-23 17:14:55,413 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][任务：【 ed374bdf 】执行完成]
+2022-02-23 17:14:55,465 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:31:57,060 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：43
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:31:57,060 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 424a4be9 】,资源ID【 424a4be9 】]
+2022-02-23 17:31:57,061 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【424a4be9】]
+2022-02-23 17:31:57,071 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 424a4be9 】TestStarted接收到参数：资源【 424a4be9 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:31:57,861 [424a4be9 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【424a4be9 】,资源【 424a4be9 】]
+2022-02-23 17:31:57,881 [424a4be9 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【424a4be9 】,资源【 424a4be9 】]
+2022-02-23 17:31:57,902 [424a4be9 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【424a4be9 】,资源【 424a4be9 】]
+2022-02-23 17:31:57,923 [424a4be9 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【424a4be9 】,资源【 424a4be9 】]
+2022-02-23 17:31:57,942 [424a4be9 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【424a4be9 】,资源【 424a4be9 】]
+2022-02-23 17:31:57,946 [424a4be9 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【424a4be9 】,资源【 424a4be9 】]
+2022-02-23 17:31:58,948 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【424a4be9】资源【 424a4be9 】执行结束]
+2022-02-23 17:31:58,948 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【424a4be9 】整体执行完成；SCENARIO]
+2022-02-23 17:31:58,948 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][任务：【 424a4be9 】执行完成]
+2022-02-23 17:31:58,981 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:35:59,175 [XNIO-1 task-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：44
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:35:59,175 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 04db893c 】,资源ID【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 17:35:59,176 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【04db893c】]
+2022-02-23 17:35:59,178 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 04db893c 】TestStarted接收到参数：资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:35:59,284 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【04db893c 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 17:35:59,285 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 17:35:59,298 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【04db893c 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 17:36:00,300 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 17:36:00,301 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【04db893c】资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】执行结束]
+2022-02-23 17:36:00,301 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【04db893c 】整体执行完成；DEFINITION]
+2022-02-23 17:36:00,301 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][任务：【 04db893c 】执行完成]
+2022-02-23 17:36:00,303 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:44:00,748 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：45
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:44:00,748 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 cf5b40b1 】,资源ID【 cf5b40b1 】]
+2022-02-23 17:44:00,749 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【cf5b40b1】]
+2022-02-23 17:44:00,751 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 cf5b40b1 】TestStarted接收到参数：资源【 cf5b40b1 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:44:01,110 [cf5b40b1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf5b40b1 】,资源【 cf5b40b1 】]
+2022-02-23 17:44:01,136 [cf5b40b1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf5b40b1 】,资源【 cf5b40b1 】]
+2022-02-23 17:44:01,158 [cf5b40b1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf5b40b1 】,资源【 cf5b40b1 】]
+2022-02-23 17:44:01,181 [cf5b40b1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf5b40b1 】,资源【 cf5b40b1 】]
+2022-02-23 17:44:01,201 [cf5b40b1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf5b40b1 】,资源【 cf5b40b1 】]
+2022-02-23 17:44:01,206 [cf5b40b1 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【cf5b40b1 】,资源【 cf5b40b1 】]
+2022-02-23 17:44:02,209 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【cf5b40b1】资源【 cf5b40b1 】执行结束]
+2022-02-23 17:44:02,209 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【cf5b40b1 】整体执行完成；SCENARIO]
+2022-02-23 17:44:02,209 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][任务：【 cf5b40b1 】执行完成]
+2022-02-23 17:44:02,246 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:44:41,991 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：46
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:44:41,991 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 9768e3d2 】,资源ID【 9768e3d2 】]
+2022-02-23 17:44:41,992 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【9768e3d2】]
+2022-02-23 17:44:41,996 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 9768e3d2 】TestStarted接收到参数：资源【 9768e3d2 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:44:42,328 [9768e3d2 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【9768e3d2 】,资源【 9768e3d2 】]
+2022-02-23 17:44:42,355 [9768e3d2 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【9768e3d2 】,资源【 9768e3d2 】]
+2022-02-23 17:44:42,376 [9768e3d2 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【9768e3d2 】,资源【 9768e3d2 】]
+2022-02-23 17:44:42,402 [9768e3d2 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【9768e3d2 】,资源【 9768e3d2 】]
+2022-02-23 17:44:42,425 [9768e3d2 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【9768e3d2 】,资源【 9768e3d2 】]
+2022-02-23 17:44:42,429 [9768e3d2 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【9768e3d2 】,资源【 9768e3d2 】]
+2022-02-23 17:44:43,432 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【9768e3d2】资源【 9768e3d2 】执行结束]
+2022-02-23 17:44:43,432 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【9768e3d2 】整体执行完成；SCENARIO]
+2022-02-23 17:44:43,433 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][任务：【 9768e3d2 】执行完成]
+2022-02-23 17:44:43,468 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:48:55,491 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：47
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:48:55,491 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 467a84b7 】,资源ID【 467a84b7 】]
+2022-02-23 17:48:55,492 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【467a84b7】]
+2022-02-23 17:48:55,494 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 467a84b7 】TestStarted接收到参数：资源【 467a84b7 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 17:48:55,847 [467a84b7 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【467a84b7 】,资源【 467a84b7 】]
+2022-02-23 17:48:55,869 [467a84b7 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【467a84b7 】,资源【 467a84b7 】]
+2022-02-23 17:48:55,889 [467a84b7 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【467a84b7 】,资源【 467a84b7 】]
+2022-02-23 17:48:55,915 [467a84b7 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【467a84b7 】,资源【 467a84b7 】]
+2022-02-23 17:48:55,944 [467a84b7 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【467a84b7 】,资源【 467a84b7 】]
+2022-02-23 17:48:55,949 [467a84b7 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【467a84b7 】,资源【 467a84b7 】]
+2022-02-23 17:48:56,950 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【467a84b7】资源【 467a84b7 】执行结束]
+2022-02-23 17:48:56,950 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【467a84b7 】整体执行完成；SCENARIO]
+2022-02-23 17:48:56,951 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][任务：【 467a84b7 】执行完成]
+2022-02-23 17:48:56,988 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 17:51:00,052 [clusterScheduler_Worker-1] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:51:00,055 [clusterScheduler_Worker-1] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:51:00,058 [clusterScheduler_Worker-1] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:51:00,062 [clusterScheduler_Worker-1] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:51:00,123 [clusterScheduler_Worker-1] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：48
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:51:00,123 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 17536baa-e450-445b-a4c1-30575ef9cb77 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:51:00,124 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【17536baa-e450-445b-a4c1-30575ef9cb77】]
+2022-02-23 17:51:00,126 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 17536baa-e450-445b-a4c1-30575ef9cb77 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:51:00,445 [17536baa-e450-445b-a4c1-30575ef9cb77 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【17536baa-e450-445b-a4c1-30575ef9cb77 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:51:00,463 [17536baa-e450-445b-a4c1-30575ef9cb77 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【17536baa-e450-445b-a4c1-30575ef9cb77 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:51:00,479 [17536baa-e450-445b-a4c1-30575ef9cb77 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【17536baa-e450-445b-a4c1-30575ef9cb77 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:51:00,492 [17536baa-e450-445b-a4c1-30575ef9cb77 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【17536baa-e450-445b-a4c1-30575ef9cb77 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:51:00,509 [17536baa-e450-445b-a4c1-30575ef9cb77 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【17536baa-e450-445b-a4c1-30575ef9cb77 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:51:00,513 [17536baa-e450-445b-a4c1-30575ef9cb77 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【17536baa-e450-445b-a4c1-30575ef9cb77 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:51:01,516 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【17536baa-e450-445b-a4c1-30575ef9cb77】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:51:01,516 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【17536baa-e450-445b-a4c1-30575ef9cb77 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:51:01,516 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][任务：【 17536baa-e450-445b-a4c1-30575ef9cb77 】执行完成]
+2022-02-23 17:51:01,561 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：ace5b045-a11f-43dc-adc2-09308c1536f6]
+2022-02-23 17:52:00,045 [clusterScheduler_Worker-2] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:52:00,047 [clusterScheduler_Worker-2] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:52:00,050 [clusterScheduler_Worker-2] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:52:00,053 [clusterScheduler_Worker-2] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:52:00,098 [clusterScheduler_Worker-2] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：49
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:52:00,098 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:52:00,099 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c】]
+2022-02-23 17:52:00,100 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:52:00,418 [087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:52:00,435 [087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:52:00,451 [087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:52:00,465 [087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:52:00,481 [087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:52:00,486 [087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:52:01,487 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:52:01,487 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:52:01,487 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][任务：【 087d9a3e-d0df-40a8-8bb2-fa6c565d3a5c 】执行完成]
+2022-02-23 17:52:01,528 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：2f02f66c-96c7-42be-ad0f-b1e06846a219]
+2022-02-23 17:53:00,011 [clusterScheduler_Worker-3] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:53:00,013 [clusterScheduler_Worker-3] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:53:00,016 [clusterScheduler_Worker-3] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:53:00,018 [clusterScheduler_Worker-3] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:53:00,057 [clusterScheduler_Worker-3] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：50
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:53:00,057 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:53:00,058 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c】]
+2022-02-23 17:53:00,059 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:53:00,354 [c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:53:00,372 [c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:53:00,392 [c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:53:00,409 [c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:53:00,426 [c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:53:00,430 [c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:53:01,431 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:53:01,431 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:53:01,431 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][任务：【 c4a9a6a5-13ad-4b3f-ba95-080516c62a1c 】执行完成]
+2022-02-23 17:53:01,474 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：17d2b632-a72c-4d58-a347-05f6eecc7922]
+2022-02-23 17:54:00,009 [clusterScheduler_Worker-4] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:54:00,010 [clusterScheduler_Worker-4] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:54:00,014 [clusterScheduler_Worker-4] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:54:00,017 [clusterScheduler_Worker-4] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:54:00,059 [clusterScheduler_Worker-4] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：51
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:54:00,059 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 93077aab-4984-4dee-b181-cd03368dd3ea 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:54:00,060 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【93077aab-4984-4dee-b181-cd03368dd3ea】]
+2022-02-23 17:54:00,061 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 93077aab-4984-4dee-b181-cd03368dd3ea 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:54:00,360 [93077aab-4984-4dee-b181-cd03368dd3ea 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【93077aab-4984-4dee-b181-cd03368dd3ea 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:54:00,379 [93077aab-4984-4dee-b181-cd03368dd3ea 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【93077aab-4984-4dee-b181-cd03368dd3ea 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:54:00,394 [93077aab-4984-4dee-b181-cd03368dd3ea 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【93077aab-4984-4dee-b181-cd03368dd3ea 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:54:00,411 [93077aab-4984-4dee-b181-cd03368dd3ea 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【93077aab-4984-4dee-b181-cd03368dd3ea 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:54:00,427 [93077aab-4984-4dee-b181-cd03368dd3ea 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【93077aab-4984-4dee-b181-cd03368dd3ea 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:54:00,431 [93077aab-4984-4dee-b181-cd03368dd3ea 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【93077aab-4984-4dee-b181-cd03368dd3ea 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:54:01,433 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【93077aab-4984-4dee-b181-cd03368dd3ea】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:54:01,433 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【93077aab-4984-4dee-b181-cd03368dd3ea 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:54:01,433 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][任务：【 93077aab-4984-4dee-b181-cd03368dd3ea 】执行完成]
+2022-02-23 17:54:01,463 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：53801ba6-d467-4e61-bc9a-6494d6f1e03d]
+2022-02-23 17:55:00,019 [clusterScheduler_Worker-5] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:55:00,023 [clusterScheduler_Worker-5] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:55:00,028 [clusterScheduler_Worker-5] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:55:00,030 [clusterScheduler_Worker-5] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:55:00,074 [clusterScheduler_Worker-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：52
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:55:00,074 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 34794ddf-e39f-445f-8d1a-b4a3bed54828 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:55:00,075 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【34794ddf-e39f-445f-8d1a-b4a3bed54828】]
+2022-02-23 17:55:00,076 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 34794ddf-e39f-445f-8d1a-b4a3bed54828 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:55:00,387 [34794ddf-e39f-445f-8d1a-b4a3bed54828 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【34794ddf-e39f-445f-8d1a-b4a3bed54828 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:55:00,404 [34794ddf-e39f-445f-8d1a-b4a3bed54828 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【34794ddf-e39f-445f-8d1a-b4a3bed54828 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:55:00,421 [34794ddf-e39f-445f-8d1a-b4a3bed54828 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【34794ddf-e39f-445f-8d1a-b4a3bed54828 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:55:00,439 [34794ddf-e39f-445f-8d1a-b4a3bed54828 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【34794ddf-e39f-445f-8d1a-b4a3bed54828 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:55:00,458 [34794ddf-e39f-445f-8d1a-b4a3bed54828 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【34794ddf-e39f-445f-8d1a-b4a3bed54828 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:55:00,464 [34794ddf-e39f-445f-8d1a-b4a3bed54828 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【34794ddf-e39f-445f-8d1a-b4a3bed54828 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:55:01,465 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【34794ddf-e39f-445f-8d1a-b4a3bed54828】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:55:01,465 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【34794ddf-e39f-445f-8d1a-b4a3bed54828 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:55:01,466 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][任务：【 34794ddf-e39f-445f-8d1a-b4a3bed54828 】执行完成]
+2022-02-23 17:55:01,504 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：6158bf52-9fcb-4f37-8f3b-044b9e1246cd]
+2022-02-23 17:56:00,011 [clusterScheduler_Worker-6] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:56:00,014 [clusterScheduler_Worker-6] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:56:00,017 [clusterScheduler_Worker-6] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:56:00,020 [clusterScheduler_Worker-6] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:56:00,057 [clusterScheduler_Worker-6] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：53
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:56:00,057 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 b697eea4-2037-494a-949f-39ac1df66a31 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:56:00,058 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【b697eea4-2037-494a-949f-39ac1df66a31】]
+2022-02-23 17:56:00,060 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 b697eea4-2037-494a-949f-39ac1df66a31 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:56:00,378 [b697eea4-2037-494a-949f-39ac1df66a31 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b697eea4-2037-494a-949f-39ac1df66a31 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:56:00,398 [b697eea4-2037-494a-949f-39ac1df66a31 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b697eea4-2037-494a-949f-39ac1df66a31 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:56:00,418 [b697eea4-2037-494a-949f-39ac1df66a31 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b697eea4-2037-494a-949f-39ac1df66a31 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:56:00,437 [b697eea4-2037-494a-949f-39ac1df66a31 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b697eea4-2037-494a-949f-39ac1df66a31 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:56:00,457 [b697eea4-2037-494a-949f-39ac1df66a31 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b697eea4-2037-494a-949f-39ac1df66a31 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:56:00,463 [b697eea4-2037-494a-949f-39ac1df66a31 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b697eea4-2037-494a-949f-39ac1df66a31 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:56:01,465 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【b697eea4-2037-494a-949f-39ac1df66a31】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:56:01,465 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【b697eea4-2037-494a-949f-39ac1df66a31 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:56:01,465 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][任务：【 b697eea4-2037-494a-949f-39ac1df66a31 】执行完成]
+2022-02-23 17:56:01,516 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：972d8bfe-526e-4d6b-a1ef-5c812dd7d498]
+2022-02-23 17:57:00,019 [clusterScheduler_Worker-7] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:57:00,027 [clusterScheduler_Worker-7] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:57:00,033 [clusterScheduler_Worker-7] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:57:00,037 [clusterScheduler_Worker-7] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:57:00,093 [clusterScheduler_Worker-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：54
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:57:00,093 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 4de92652-655c-4278-9f0a-2f105b452dfa 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:57:00,094 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【4de92652-655c-4278-9f0a-2f105b452dfa】]
+2022-02-23 17:57:00,096 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 4de92652-655c-4278-9f0a-2f105b452dfa 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:57:00,452 [4de92652-655c-4278-9f0a-2f105b452dfa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4de92652-655c-4278-9f0a-2f105b452dfa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:57:00,469 [4de92652-655c-4278-9f0a-2f105b452dfa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4de92652-655c-4278-9f0a-2f105b452dfa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:57:00,492 [4de92652-655c-4278-9f0a-2f105b452dfa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4de92652-655c-4278-9f0a-2f105b452dfa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:57:00,508 [4de92652-655c-4278-9f0a-2f105b452dfa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4de92652-655c-4278-9f0a-2f105b452dfa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:57:00,524 [4de92652-655c-4278-9f0a-2f105b452dfa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4de92652-655c-4278-9f0a-2f105b452dfa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:57:00,528 [4de92652-655c-4278-9f0a-2f105b452dfa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4de92652-655c-4278-9f0a-2f105b452dfa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:57:01,531 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【4de92652-655c-4278-9f0a-2f105b452dfa】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:57:01,531 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【4de92652-655c-4278-9f0a-2f105b452dfa 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:57:01,531 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][任务：【 4de92652-655c-4278-9f0a-2f105b452dfa 】执行完成]
+2022-02-23 17:57:01,576 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：3e93c013-094b-4a71-bbdd-c3007ba179b8]
+2022-02-23 17:58:00,020 [clusterScheduler_Worker-8] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:58:00,024 [clusterScheduler_Worker-8] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:58:00,029 [clusterScheduler_Worker-8] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:58:00,032 [clusterScheduler_Worker-8] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:58:00,071 [clusterScheduler_Worker-8] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：55
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:58:00,071 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 6cd74c04-4333-4e6e-bd72-bf7d192ef931 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:58:00,072 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931】]
+2022-02-23 17:58:00,074 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 6cd74c04-4333-4e6e-bd72-bf7d192ef931 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:58:00,628 [6cd74c04-4333-4e6e-bd72-bf7d192ef931 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:58:00,650 [6cd74c04-4333-4e6e-bd72-bf7d192ef931 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:58:00,669 [6cd74c04-4333-4e6e-bd72-bf7d192ef931 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:58:00,690 [6cd74c04-4333-4e6e-bd72-bf7d192ef931 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:58:00,708 [6cd74c04-4333-4e6e-bd72-bf7d192ef931 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:58:00,712 [6cd74c04-4333-4e6e-bd72-bf7d192ef931 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:58:01,715 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:58:01,715 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【6cd74c04-4333-4e6e-bd72-bf7d192ef931 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:58:01,715 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][任务：【 6cd74c04-4333-4e6e-bd72-bf7d192ef931 】执行完成]
+2022-02-23 17:58:01,751 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：75bf2da8-ec96-433f-b060-e53323708458]
+2022-02-23 17:59:00,024 [clusterScheduler_Worker-9] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 17:59:00,027 [clusterScheduler_Worker-9] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 17:59:00,030 [clusterScheduler_Worker-9] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 17:59:00,033 [clusterScheduler_Worker-9] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 17:59:00,072 [clusterScheduler_Worker-9] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：56
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 17:59:00,072 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 4f3d2645-866c-4880-b3e1-0a8079187efa 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:59:00,073 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【4f3d2645-866c-4880-b3e1-0a8079187efa】]
+2022-02-23 17:59:00,074 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 4f3d2645-866c-4880-b3e1-0a8079187efa 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 17:59:00,405 [4f3d2645-866c-4880-b3e1-0a8079187efa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4f3d2645-866c-4880-b3e1-0a8079187efa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:59:00,425 [4f3d2645-866c-4880-b3e1-0a8079187efa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4f3d2645-866c-4880-b3e1-0a8079187efa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:59:00,440 [4f3d2645-866c-4880-b3e1-0a8079187efa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4f3d2645-866c-4880-b3e1-0a8079187efa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:59:00,461 [4f3d2645-866c-4880-b3e1-0a8079187efa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4f3d2645-866c-4880-b3e1-0a8079187efa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:59:00,478 [4f3d2645-866c-4880-b3e1-0a8079187efa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4f3d2645-866c-4880-b3e1-0a8079187efa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:59:00,483 [4f3d2645-866c-4880-b3e1-0a8079187efa 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【4f3d2645-866c-4880-b3e1-0a8079187efa 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 17:59:01,486 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【4f3d2645-866c-4880-b3e1-0a8079187efa】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 17:59:01,486 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【4f3d2645-866c-4880-b3e1-0a8079187efa 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 17:59:01,487 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][任务：【 4f3d2645-866c-4880-b3e1-0a8079187efa 】执行完成]
+2022-02-23 17:59:01,527 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：28994314-0dcb-4b7c-900e-2f59af50f31f]
+2022-02-23 18:00:00,018 [clusterScheduler_Worker-10] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 18:00:00,021 [clusterScheduler_Worker-10] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 18:00:00,024 [clusterScheduler_Worker-10] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 18:00:00,026 [clusterScheduler_Worker-10] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 18:00:00,065 [clusterScheduler_Worker-10] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：57
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 18:00:00,065 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:00:00,066 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c】]
+2022-02-23 18:00:00,067 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 18:00:00,393 [e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:00:00,409 [e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:00:00,424 [e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:00:00,440 [e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:00:00,460 [e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:00:00,465 [e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:00:01,466 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 18:00:01,466 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 18:00:01,467 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][任务：【 e4c3f2cb-8d90-4f9c-b2ef-069d1a776b9c 】执行完成]
+2022-02-23 18:00:01,500 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：a2224e42-a1bc-4bf7-b861-93f32a807552]
+2022-02-23 18:01:00,009 [clusterScheduler_Worker-11] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 18:01:00,012 [clusterScheduler_Worker-11] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 18:01:00,015 [clusterScheduler_Worker-11] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 18:01:00,017 [clusterScheduler_Worker-11] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 18:01:00,055 [clusterScheduler_Worker-11] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：58
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 18:01:00,055 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 a93f373c-6977-4734-b616-cc6b65ea9b29 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:01:00,056 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【a93f373c-6977-4734-b616-cc6b65ea9b29】]
+2022-02-23 18:01:00,058 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 a93f373c-6977-4734-b616-cc6b65ea9b29 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 18:01:00,368 [a93f373c-6977-4734-b616-cc6b65ea9b29 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a93f373c-6977-4734-b616-cc6b65ea9b29 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:01:00,382 [a93f373c-6977-4734-b616-cc6b65ea9b29 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a93f373c-6977-4734-b616-cc6b65ea9b29 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:01:00,398 [a93f373c-6977-4734-b616-cc6b65ea9b29 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a93f373c-6977-4734-b616-cc6b65ea9b29 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:01:00,415 [a93f373c-6977-4734-b616-cc6b65ea9b29 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a93f373c-6977-4734-b616-cc6b65ea9b29 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:01:00,430 [a93f373c-6977-4734-b616-cc6b65ea9b29 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a93f373c-6977-4734-b616-cc6b65ea9b29 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:01:00,434 [a93f373c-6977-4734-b616-cc6b65ea9b29 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【a93f373c-6977-4734-b616-cc6b65ea9b29 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:01:01,436 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【a93f373c-6977-4734-b616-cc6b65ea9b29】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 18:01:01,437 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【a93f373c-6977-4734-b616-cc6b65ea9b29 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 18:01:01,437 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][任务：【 a93f373c-6977-4734-b616-cc6b65ea9b29 】执行完成]
+2022-02-23 18:01:01,473 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：7c523162-e56c-426d-af0e-10c0662a19f0]
+2022-02-23 18:02:00,020 [clusterScheduler_Worker-12] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 18:02:00,023 [clusterScheduler_Worker-12] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 18:02:00,025 [clusterScheduler_Worker-12] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 18:02:00,028 [clusterScheduler_Worker-12] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 18:02:00,072 [clusterScheduler_Worker-12] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：59
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 18:02:00,072 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 0722e8ed-e08c-4305-b98d-076d88e94888 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:02:00,073 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【0722e8ed-e08c-4305-b98d-076d88e94888】]
+2022-02-23 18:02:00,075 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 0722e8ed-e08c-4305-b98d-076d88e94888 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 18:02:00,396 [0722e8ed-e08c-4305-b98d-076d88e94888 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【0722e8ed-e08c-4305-b98d-076d88e94888 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:02:00,415 [0722e8ed-e08c-4305-b98d-076d88e94888 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【0722e8ed-e08c-4305-b98d-076d88e94888 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:02:00,432 [0722e8ed-e08c-4305-b98d-076d88e94888 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【0722e8ed-e08c-4305-b98d-076d88e94888 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:02:00,450 [0722e8ed-e08c-4305-b98d-076d88e94888 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【0722e8ed-e08c-4305-b98d-076d88e94888 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:02:00,466 [0722e8ed-e08c-4305-b98d-076d88e94888 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【0722e8ed-e08c-4305-b98d-076d88e94888 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:02:00,472 [0722e8ed-e08c-4305-b98d-076d88e94888 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【0722e8ed-e08c-4305-b98d-076d88e94888 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 18:02:01,475 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【0722e8ed-e08c-4305-b98d-076d88e94888】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 18:02:01,475 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【0722e8ed-e08c-4305-b98d-076d88e94888 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 18:02:01,475 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][任务：【 0722e8ed-e08c-4305-b98d-076d88e94888 】执行完成]
+2022-02-23 18:02:01,524 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：c012e211-548f-4b3f-acc5-91b020d787db]
+2022-02-23 19:06:07,120 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：60
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:06:07,121 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 490e40e9 】,资源ID【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 19:06:07,133 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【490e40e9】]
+2022-02-23 19:06:07,134 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 490e40e9 】TestStarted接收到参数：资源【 3b616b6c-e998-58fa-215e-8261293a1627 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:06:07,519 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【490e40e9 】,资源【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 19:06:07,519 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 19:06:07,534 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【490e40e9 】,资源【 3b616b6c-e998-58fa-215e-8261293a1627 】]
+2022-02-23 19:06:08,535 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 19:06:08,536 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【490e40e9】资源【 3b616b6c-e998-58fa-215e-8261293a1627 】执行结束]
+2022-02-23 19:06:08,537 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【490e40e9 】整体执行完成；DEFINITION]
+2022-02-23 19:06:08,537 [MS-JMETER-RUN-TASK：1] INFO  ms-jmeter-run-log ? - Method[run][任务：【 490e40e9 】执行完成]
+2022-02-23 19:06:08,538 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:06:22,372 [XNIO-1 task-6] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：61
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:06:22,372 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 f0494a77 】,资源ID【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:06:22,373 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【f0494a77】]
+2022-02-23 19:06:22,374 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 f0494a77 】TestStarted接收到参数：资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:06:22,506 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f0494a77 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:06:22,507 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 19:06:22,523 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【f0494a77 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:06:23,523 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 19:06:23,524 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【f0494a77】资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】执行结束]
+2022-02-23 19:06:23,524 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【f0494a77 】整体执行完成；DEFINITION]
+2022-02-23 19:06:23,524 [MS-JMETER-RUN-TASK：2] INFO  ms-jmeter-run-log ? - Method[run][任务：【 f0494a77 】执行完成]
+2022-02-23 19:06:23,526 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:08:07,284 [XNIO-1 task-1] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：62
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:08:07,284 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 d60b8352 】,资源ID【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:08:07,285 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【d60b8352】]
+2022-02-23 19:08:07,286 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 d60b8352 】TestStarted接收到参数：资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:08:07,401 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d60b8352 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:08:07,402 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 19:08:07,418 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d60b8352 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:08:08,418 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 19:08:08,419 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【d60b8352】资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】执行结束]
+2022-02-23 19:08:08,419 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【d60b8352 】整体执行完成；DEFINITION]
+2022-02-23 19:08:08,419 [MS-JMETER-RUN-TASK：3] INFO  ms-jmeter-run-log ? - Method[run][任务：【 d60b8352 】执行完成]
+2022-02-23 19:08:08,421 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:11:54,555 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：63
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:11:54,555 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 ec53c470 】,资源ID【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 19:11:54,556 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【ec53c470】]
+2022-02-23 19:11:54,558 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 ec53c470 】TestStarted接收到参数：资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:11:54,886 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ec53c470 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 19:11:54,887 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 19:11:54,895 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【ec53c470 】,资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】]
+2022-02-23 19:11:55,896 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 19:11:55,898 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【ec53c470】资源【 b4b521a9-a03b-4e17-a89a-79b6b7f6f996 】执行结束]
+2022-02-23 19:11:55,898 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【ec53c470 】整体执行完成；DEFINITION]
+2022-02-23 19:11:55,898 [MS-JMETER-RUN-TASK：4] INFO  ms-jmeter-run-log ? - Method[run][任务：【 ec53c470 】执行完成]
+2022-02-23 19:11:55,900 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:13:15,669 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：64
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:13:15,670 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 45068ea5 】,资源ID【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:13:15,670 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【45068ea5】]
+2022-02-23 19:13:15,671 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 45068ea5 】TestStarted接收到参数：资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:13:15,809 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【45068ea5 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:13:15,810 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 19:13:15,822 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【45068ea5 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:13:16,823 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 19:13:16,824 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【45068ea5】资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】执行结束]
+2022-02-23 19:13:16,824 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【45068ea5 】整体执行完成；DEFINITION]
+2022-02-23 19:13:16,824 [MS-JMETER-RUN-TASK：5] INFO  ms-jmeter-run-log ? - Method[run][任务：【 45068ea5 】执行完成]
+2022-02-23 19:13:16,825 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:13:54,135 [XNIO-1 task-5] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：65
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:13:54,136 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 7de9131c 】,资源ID【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:13:54,136 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【7de9131c】]
+2022-02-23 19:13:54,138 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 7de9131c 】TestStarted接收到参数：资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 DEFINITION 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:13:54,269 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【7de9131c 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:13:54,269 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 1 】]
+2022-02-23 19:13:54,283 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【7de9131c 】,资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】]
+2022-02-23 19:13:55,284 [ThreadGroup 1-1] INFO  ms-jmeter-run-log ? - Method[saveApiResult][接收到API/CASE执行结果【 0 】]
+2022-02-23 19:13:55,285 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【7de9131c】资源【 db02b0dd-203b-1180-2a12-ec89e38c9759 】执行结束]
+2022-02-23 19:13:55,285 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【7de9131c 】整体执行完成；DEFINITION]
+2022-02-23 19:13:55,285 [MS-JMETER-RUN-TASK：6] INFO  ms-jmeter-run-log ? - Method[run][任务：【 7de9131c 】执行完成]
+2022-02-23 19:13:55,286 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:14:55,823 [XNIO-1 task-1] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：66
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:14:55,823 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 b860e33a 】,资源ID【 b860e33a 】]
+2022-02-23 19:14:55,825 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【b860e33a】]
+2022-02-23 19:14:55,826 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 b860e33a 】TestStarted接收到参数：资源【 b860e33a 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:14:56,222 [b860e33a 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b860e33a 】,资源【 b860e33a 】]
+2022-02-23 19:14:56,267 [b860e33a 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b860e33a 】,资源【 b860e33a 】]
+2022-02-23 19:14:56,315 [b860e33a 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b860e33a 】,资源【 b860e33a 】]
+2022-02-23 19:14:56,381 [b860e33a 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b860e33a 】,资源【 b860e33a 】]
+2022-02-23 19:14:56,400 [b860e33a 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b860e33a 】,资源【 b860e33a 】]
+2022-02-23 19:14:56,406 [b860e33a 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b860e33a 】,资源【 b860e33a 】]
+2022-02-23 19:14:57,410 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【b860e33a】资源【 b860e33a 】执行结束]
+2022-02-23 19:14:57,410 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【b860e33a 】整体执行完成；SCENARIO]
+2022-02-23 19:14:57,410 [MS-JMETER-RUN-TASK：7] INFO  ms-jmeter-run-log ? - Method[run][任务：【 b860e33a 】执行完成]
+2022-02-23 19:14:57,454 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:16:06,654 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：67
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:16:06,654 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 d17f0ec6 】,资源ID【 d17f0ec6 】]
+2022-02-23 19:16:06,655 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【d17f0ec6】]
+2022-02-23 19:16:06,657 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 d17f0ec6 】TestStarted接收到参数：资源【 d17f0ec6 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:16:06,973 [d17f0ec6 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d17f0ec6 】,资源【 d17f0ec6 】]
+2022-02-23 19:16:07,024 [d17f0ec6 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d17f0ec6 】,资源【 d17f0ec6 】]
+2022-02-23 19:16:07,073 [d17f0ec6 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d17f0ec6 】,资源【 d17f0ec6 】]
+2022-02-23 19:16:07,126 [d17f0ec6 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d17f0ec6 】,资源【 d17f0ec6 】]
+2022-02-23 19:16:07,144 [d17f0ec6 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d17f0ec6 】,资源【 d17f0ec6 】]
+2022-02-23 19:16:07,150 [d17f0ec6 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【d17f0ec6 】,资源【 d17f0ec6 】]
+2022-02-23 19:16:08,152 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【d17f0ec6】资源【 d17f0ec6 】执行结束]
+2022-02-23 19:16:08,152 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【d17f0ec6 】整体执行完成；SCENARIO]
+2022-02-23 19:16:08,152 [MS-JMETER-RUN-TASK：8] INFO  ms-jmeter-run-log ? - Method[run][任务：【 d17f0ec6 】执行完成]
+2022-02-23 19:16:08,188 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:18:20,668 [XNIO-1 task-7] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：68
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:18:20,668 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 da17eb11 】,资源ID【 da17eb11 】]
+2022-02-23 19:18:20,669 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【da17eb11】]
+2022-02-23 19:18:20,671 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 da17eb11 】TestStarted接收到参数：资源【 da17eb11 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCENARIO 】TestStarted接收到参数：报告类型【 INDEPENDENCE 】]
+2022-02-23 19:18:21,005 [da17eb11 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【da17eb11 】,资源【 da17eb11 】]
+2022-02-23 19:18:21,063 [da17eb11 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【da17eb11 】,资源【 da17eb11 】]
+2022-02-23 19:18:21,108 [da17eb11 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【da17eb11 】,资源【 da17eb11 】]
+2022-02-23 19:18:21,153 [da17eb11 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【da17eb11 】,资源【 da17eb11 】]
+2022-02-23 19:18:21,389 [da17eb11 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【da17eb11 】,资源【 da17eb11 】]
+2022-02-23 19:18:21,394 [da17eb11 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【da17eb11 】,资源【 da17eb11 】]
+2022-02-23 19:18:22,395 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【da17eb11】资源【 da17eb11 】执行结束]
+2022-02-23 19:18:22,395 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【da17eb11 】整体执行完成；SCENARIO]
+2022-02-23 19:18:22,395 [MS-JMETER-RUN-TASK：9] INFO  ms-jmeter-run-log ? - Method[run][任务：【 da17eb11 】执行完成]
+2022-02-23 19:18:22,436 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：null]
+2022-02-23 19:20:00,014 [clusterScheduler_Worker-13] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-根据条件查询所有场景 ]
+2022-02-23 19:20:00,017 [clusterScheduler_Worker-13] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-开始针对所有执行场景进行环境检查]
+2022-02-23 19:20:00,021 [clusterScheduler_Worker-13] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列]
+2022-02-23 19:20:00,024 [clusterScheduler_Worker-13] INFO  ms-jmeter-run-log ? - Method[run][Scenario run-执行脚本装载-初始化执行队列完成：1]
+2022-02-23 19:20:00,062 [clusterScheduler_Worker-13] INFO  ms-jmeter-run-log ? - Method[outApiThreadPoolExecutorLogger][API 并发队列详情：
+ 核心线程数：10
+ 活动线程数：0
+ 最大线程数：10
+ 线程池活跃度：0.00%
+ 任务完成数：69
+ 队列大小：10000
+ 当前排队线程数：0
+ 队列剩余大小：10000
+ 阻塞队列大小：0
+ 队列使用度：0.00%]
+2022-02-23 19:20:00,062 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][开始执行报告ID：【 b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】,资源ID【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 19:20:00,063 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][LocalRunner 开始执行报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d】]
+2022-02-23 19:20:00,064 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testStarted][TestStarted接收到参数：报告【 b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】TestStarted接收到参数：资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】TestStarted接收到参数：测试计划报告【 null 】TestStarted接收到参数：执行对象【 SCHEDULE_SCENARIO 】TestStarted接收到参数：报告类型【 Independence 】]
+2022-02-23 19:20:00,384 [b8f73c95-d9aa-44db-8357-d1c4098e1c0d 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 19:20:00,439 [b8f73c95-d9aa-44db-8357-d1c4098e1c0d 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 19:20:00,493 [b8f73c95-d9aa-44db-8357-d1c4098e1c0d 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 19:20:00,533 [b8f73c95-d9aa-44db-8357-d1c4098e1c0d 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 19:20:00,751 [b8f73c95-d9aa-44db-8357-d1c4098e1c0d 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 19:20:00,755 [b8f73c95-d9aa-44db-8357-d1c4098e1c0d 1-1] INFO  ms-jmeter-run-log ? - Method[handleTeardownTest][处理单条执行结果报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】,资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】]
+2022-02-23 19:20:01,759 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][JMETER-测试报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d】资源【 53c5df2b-1605-4b54-aa83-97a98a995225 】执行结束]
+2022-02-23 19:20:01,759 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][进入TEST-END处理报告【b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】整体执行完成；SCHEDULE_SCENARIO]
+2022-02-23 19:20:01,759 [MS-JMETER-RUN-TASK：10] INFO  ms-jmeter-run-log ? - Method[run][任务：【 b8f73c95-d9aa-44db-8357-d1c4098e1c0d 】执行完成]
+2022-02-23 19:20:01,809 [StandardJMeterEngine] INFO  ms-jmeter-run-log ? - Method[testEnded][执行队列处理：6e1f3cc3-323b-4f48-b360-838c1d860e62]
